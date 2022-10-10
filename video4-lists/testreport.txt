@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.8.5, pytest-5.3.5, py-1.8.1, pluggy-0.13.1 -- /opt/local/Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8
+cachedir: .pytest_cache
+rootdir: /Users/mjh/teaching/engf0002/ENGF2-2020/video4-lists
+plugins: cov-2.10.1
+collecting ... mon
+tues
+weds
+thurs
+fri
+mon
+tues
+weds
+thurs
+fri
+collected 0 items
+
+============================ no tests ran in 0.03s =============================
