@@ -13,8 +13,6 @@ class RandomPlayer(Player):
         self.random = Random(seed)
 
     def choose_action(self, board):
-        self.print_board(board)
-        time.sleep(0.5)
         if self.random.random() > 0.97:
             # 3% chance we'll discard or drop a bomb
             return self.random.choice([
