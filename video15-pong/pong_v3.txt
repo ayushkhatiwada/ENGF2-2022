@@ -1,4 +1,4 @@
-APong v3 Protocol Specification
+Pong v3 Protocol Specification
 ==============================
 
 Terminology
